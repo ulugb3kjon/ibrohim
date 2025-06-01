@@ -10,7 +10,7 @@ for (let i = 0; i < 200; i++) {
     x: Math.random() * canvas.width,
     y: Math.random() * canvas.height,
     size: Math.random() * 4 + 1,
-    speed: Math.random() * 1.5 + 0.5
+    speed: Math.random() * 0.5 + 0.5
   });
 }
 
